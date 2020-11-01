@@ -9,9 +9,3 @@ Hello, and welcome to my profile 👋! I'm Dishant and I like to play around and
 - 📫 How to reach me: [dishantrathi](https://keybase.io/dishantrathi) or in Valorant (Crawly #0404)
 - 😄 Pronouns: Computerist, Crawly 
 - ⚡ Fun fact: #404 - Sleep Not Found
-
-<hr>
-
-<div align="center">
-    <img src="https://github.com/dishantrathi/dishantrathi/raw/main/Computerist.png" width="600" height="300"/>
-</div>
