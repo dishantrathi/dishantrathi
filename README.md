@@ -13,5 +13,5 @@ Hello, and welcome to my profile 👋! I'm Dishant and I like to play around and
 <hr>
 
 <div align="center">
-    <img src="https://github.com/dishantrathi/dishantrathi/raw/main/Computerist.png" width="800" height="300"/>
+    <img src="https://github.com/dishantrathi/dishantrathi/raw/main/Computerist.png" width="600" height="300"/>
 </div>
