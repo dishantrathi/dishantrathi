@@ -50,3 +50,6 @@ Hello, and welcome to my profile 👋! I'm Dishant and I like to play around and
 <p align="left">
   <img align="left" alt="twtrubiks's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dishantrathi&show_icons=true&hide_border=true" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnmuniz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
