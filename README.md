@@ -2,7 +2,7 @@
 
 Hello, and welcome to my profile 👋! I'm Dishant and I like to play around and build things with .py and .sh!
 
-- 🔭 I’m a Backend Developer Python
+- 🔭 I’m a Python Backend Developer
 - 🌱 I’m currently learning Dockerizing Django and CICD Pipelines for the same!
 - 👯 I’m looking to collaborate on Django Proects
 - 💬 Ask me anything about Python 🐍
