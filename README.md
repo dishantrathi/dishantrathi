@@ -4,7 +4,7 @@ Hello 👋! I'm Dishant and I like to play around and build things with .py and 
 
 - 🔭 I’m a Python Backend Developer
 - 🌱 I’m currently learning: Dockerizing Django and CICD Pipelines for the same!
-- 👯 I love to collaborate on Django Proects
+- 👯 I love to collaborate on Python Proects
 - 💬 Ask me anything about Python 🐍
 - 📫 How to reach me: [dishantrathi](https://keybase.io/dishantrathi) or in Valorant (Crawly #0404)
 - 😄 Pronouns: Computerist, Crawly 
