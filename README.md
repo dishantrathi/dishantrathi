@@ -1,8 +1,8 @@
 ### Stalking Here or What ???
 
-Hello 👋! I'm Dishant and I like to play around and build things with .py and .sh!
+Hello 👋! I'm Dishant and I like to play around and build and design things with .py and .sh!
 
-- 🔭 I’m a Python Backend Developer
+- 🔭 I’m a Python Backend Developer and Architect
 - 🌱 I’m currently learning: Dockerizing Django and CICD Pipelines for the same!
 - 👯 I love to collaborate on Python Proects
 - 💬 Ask me anything about Python 🐍
