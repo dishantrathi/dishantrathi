@@ -6,7 +6,7 @@ Hello 👋! I'm Dishant and I like to play around and build and design things wi
 - 🌱 I’m currently learning: Dockerizing Django and CICD Pipelines for the same!
 - 👯 I love to collaborate on Python Projects
 - 💬 Ask me anything about Python 🐍
-- 📫 How to reach me: [dishantrathi](https://keybase.io/dishantrathi) or in Valorant (Crawly #0404)
+- 📫 How to reach me: [dishantrathi](https://keybase.io/dishantrathi)
 - 😄 Pronouns: Computerist, Crawly 
 - ⚡ Fun fact: #404 - Sleep Not Found
 
