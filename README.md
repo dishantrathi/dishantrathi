@@ -1,6 +1,6 @@
 ### Stalking Here or What ???
 
-Hello 👋! I'm Dishant and I like to play around and build and design things with .py and .sh!
+Hello 👋! I'm Dishant and I like to play around, build and design things with .py and .sh!
 
 - 🔭 I’m a Python Backend Developer and Architect
 - 🌱 I’m currently learning, understanding and implementing: Serverless Architectures
